@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+amazone.db
+.venv/
+uv.lock
+.python-version
